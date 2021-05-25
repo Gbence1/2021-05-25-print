@@ -3,7 +3,7 @@ body {
 }
 
 .bg-fej {
-	background-image: url(drukletters.jpg);
+	background-image: url(../src/img/drukletters.jpg);
 	background-position: center;
 	height: 250px;
 	padding-top: 75px;
